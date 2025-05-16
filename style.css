@@ -110,6 +110,17 @@ button:hover {
   padding: 10px 25px;
 }
 
+button a {
+  text-decoration: none;
+  color: #191923;
+}
+
+button:hover,
+a:hover {
+  background-color: #292944ff;
+  color: white;
+}
+
 /* Main content */
 main {
   padding: 40px 0;
